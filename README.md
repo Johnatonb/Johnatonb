@@ -1,4 +1,12 @@
-### Hi there 👋
+### Howdy, I'm John Brubaker
+
+### I just graduated from UC Berkeley with a B.A. in Physics
+
+### I'm interested in computational physics and parallel computing
+
+### You can reach me at johnkbrubaker@gmail.com
+
+This is a collection of personal and school projects. A short description is in each README.md
 
 <!--
 **Johnatonb/Johnatonb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
